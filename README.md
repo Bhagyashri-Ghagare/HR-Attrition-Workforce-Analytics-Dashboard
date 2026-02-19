@@ -71,6 +71,7 @@ Business Travel
 
 Marital Status
 
+
 📈 Insights Gained
 
 Higher attrition observed in employees with 2–5 years of experience
@@ -80,6 +81,9 @@ Frequent travel roles show increased turnover risk
 Job satisfaction level strongly impacts employee retention
 
 Certain departments have higher attrition rates
+
+Dashboard Screenshot
+https://github.com/Bhagyashri-Ghagare/HR-Attrition-Workforce-Analytics-Dashboard/blob/main/Dashboard%20screenshot.png
 
 🧑‍💻 Author
 
