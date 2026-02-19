@@ -1,5 +1,3 @@
-.
-
 🧠 HR Attrition Analysis Dashboard – Power BI
 📌 Project Overview
 
@@ -101,8 +99,6 @@ Business-friendly visual storytelling
 
 This project demonstrates how data visualization and analytics can transform raw HR data into meaningful insights.
 The dashboard helps HR teams understand employee behavior and design effective retention strategies.
-
-📎 Project Link
 
 🔗 Dashboard File / Screenshots: 
 https://github.com/Bhagyashri-Ghagare/HR-Attrition-Workforce-Analytics-Dashboard/blob/main/Dashboard%20screenshot.png
