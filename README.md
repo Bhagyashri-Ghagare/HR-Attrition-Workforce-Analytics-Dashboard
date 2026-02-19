@@ -1,88 +1,110 @@
-📊 HR Attrition & Workforce Analytics Dashboard
-🔹 Project Overview
+.
 
-This project focuses on analyzing employee attrition and workforce metrics using Power BI. The dashboard provides insights into employee demographics, salary trends, job satisfaction, travel frequency, and experience levels to help organizations reduce employee turnover and improve retention strategies.
+🧠 HR Attrition Analysis Dashboard – Power BI
+📌 Project Overview
 
-🎯 Objectives
+Employee attrition is a major challenge for organizations because it increases hiring costs and affects productivity.
+This project focuses on analyzing why employees leave the company and identifying key patterns behind attrition using an interactive Power BI dashboard.
 
-Analyze employee attrition trends
+The goal of this project is to help HR teams make data-driven decisions to improve employee retention.
 
-Identify key factors influencing employee turnover
+🎯 Business Problem
 
-Provide workforce demographic insights
+Organizations often struggle to understand:
 
-Support HR decision-making with interactive visualizations
+Which employees are leaving?
 
-📌 Key Metrics & KPIs
+Which departments have the highest attrition?
 
-Total Workforce
+What factors (salary, age, tenure, satisfaction) influence employee turnover?
 
-Attrition Rate (%)
+Without proper analysis, HR teams cannot design effective retention strategies.
+This dashboard answers these questions using real HR data.
 
-Attrition Employee Count
+📊 Key Insights & Storytelling
+🔹 1. Overall Attrition Trend
 
-Average Salary
+The dashboard shows total employees, total attrition, and attrition rate.
+This provides a quick overview of workforce stability and turnover severity.
 
-Average Working Years (Tenure)
+Insight:
+Higher attrition indicates the need for improved employee engagement and retention strategies.
 
-Gender Distribution
+🔹 2. Department-wise Attrition
 
-Job Satisfaction Levels
+Certain departments such as Sales and R&D show higher attrition rates.
 
-Marital Status Distribution
+Insight:
+Workload, pressure, or role expectations may be causing employees to leave these departments more frequently.
 
-Business Travel Frequency
+🔹 3. Age & Gender Patterns
 
-📊 Dashboard Features
+Younger employees (20–30 years) have a higher attrition rate compared to senior employees.
 
-Interactive slicers for Department and Employee Attributes
+Insight:
+Young professionals may leave due to career growth opportunities, salary expectations, or job dissatisfaction.
 
-KPI cards for workforce and attrition metrics
+🔹 4. Salary Impact on Attrition
 
-Bar and line charts for attrition vs experience analysis
+Employees with lower salary ranges show higher attrition.
 
-Donut charts for employee satisfaction and demographics
+Insight:
+Compensation is a key factor in employee retention, especially for entry-level employees.
 
-Modern corporate UI design
+🔹 5. Tenure (Years at Company)
 
-🛠 Tools & Technologies Used
+Employees with less than 2 years of experience have the highest attrition.
 
-Power BI Desktop
+Insight:
+This suggests onboarding challenges or job role mismatches for new hires.
 
-DAX (Data Analysis Expressions)
+🔹 6. Job Satisfaction & Performance
 
-Microsoft Excel (Dataset Source)
+Employees with lower satisfaction scores are more likely to leave the company.
 
-Data Modeling & Visualization Techniques
+Insight:
+Employee engagement and satisfaction programs can significantly reduce attrition.
 
-📂 Dataset
+💡 Business Recommendations
 
-The dataset contains employee information such as:
+Based on the analysis, organizations can:
 
-Age, Gender, Department
+Improve onboarding and training programs
 
-Salary and Working Years
+Offer competitive salaries for junior employees
 
-Job Satisfaction
+Provide career growth opportunities for young professionals
 
-Attrition Status
+Focus retention strategies on high-attrition departments
 
-Business Travel
+Conduct regular employee satisfaction surveys
 
-Marital Status
+🛠️ Tools & Technologies Used
 
+Power BI – Dashboard development and visualization
 
-📈 Insights Gained
+DAX – Calculated measures and KPIs
 
-Higher attrition observed in employees with 2–5 years of experience
+Excel / CSV Dataset – Data cleaning and preprocessing
 
-Frequent travel roles show increased turnover risk
+📈 Dashboard Features
 
-Job satisfaction level strongly impacts employee retention
+Interactive filters and slicers
 
-Certain departments have higher attrition rates
+KPI cards for attrition metrics
 
-Dashboard Screenshot
+Department, gender, age, salary, and tenure analysis
+
+Business-friendly visual storytelling
+
+🚀 Conclusion
+
+This project demonstrates how data visualization and analytics can transform raw HR data into meaningful insights.
+The dashboard helps HR teams understand employee behavior and design effective retention strategies.
+
+📎 Project Link
+
+🔗 Dashboard File / Screenshots: 
 https://github.com/Bhagyashri-Ghagare/HR-Attrition-Workforce-Analytics-Dashboard/blob/main/Dashboard%20screenshot.png
 
 🧑‍💻 Author
